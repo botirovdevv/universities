@@ -8,7 +8,7 @@
     "requirements": {
       "ielts": 6.0,
       "cefr_min": 56,
-      "sat_math": 700
+      "sat_math": 780
     },
     "acceptance_rate": "15%"
   },
