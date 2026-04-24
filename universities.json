@@ -1,132 +1,32 @@
 [
   {
-    "name": "Massachusetts Institute of Technology (MIT)",
-    "country": "USA",
-    "type": "private",
-    "website": "https://www.mit.edu",
-    "acceptance_rate": "4%",
-    "scholarship": "Full-need financial aid",
-    "requirements": {
-      "gpa": 3.9,
-      "sat": 1520,
-      "ielts": 7.5
-    }
-  },
-  {
     "name": "New Uzbekistan University",
     "country": "Uzbekistan",
     "type": "public",
+    "accepts_cefr": true,
     "website": "https://newuu.uz",
     "acceptance_rate": "15%",
     "scholarship": "State-funded / Presidential",
     "requirements": {
       "gpa": 3.5,
       "sat": 1200,
-      "ielts": 6.5
+      "ielts": 6.5,
+      "cefr": "B2"
     }
   },
   {
-    "name": "Westminster International University in Tashkent (WIUT)",
-    "country": "Uzbekistan",
-    "type": "public",
-    "website": "https://www.wiut.uz",
-    "acceptance_rate": "25%",
-    "scholarship": "WIUT Scholarship / Government",
-    "requirements": {
-      "gpa": 3.0,
-      "sat": 1100,
-      "ielts": 6.0
-    }
-  },
-  {
-    "name": "Central Asian University (CAU)",
-    "country": "Uzbekistan",
+    "name": "Massachusetts Institute of Technology",
+    "country": "USA",
     "type": "private",
-    "website": "https://centralasian.university",
-    "acceptance_rate": "40%",
-    "scholarship": "Internal discounts available",
-    "requirements": {
-      "gpa": 2.8,
-      "sat": 1000,
-      "ielts": 5.5
-    }
-  },
-  {
-    "name": "Al-Khwarizmi University (AKHU)",
-    "country": "Uzbekistan",
-    "type": "public",
-    "website": "https://akhu.uz",
-    "acceptance_rate": "30%",
-    "scholarship": "Government Grant",
-    "requirements": {
-      "gpa": 3.2,
-      "sat": 1150,
-      "ielts": 5.5
-    }
-  },
-  {
-    "name": "Amity University Tashkent",
-    "country": "Uzbekistan",
-    "type": "private",
-    "website": "https://amity.uz",
-    "acceptance_rate": "45%",
-    "scholarship": "Merit-based scholarships",
-    "requirements": {
-      "gpa": 2.5,
-      "sat": 0,
-      "ielts": 5.0
-    }
-  },
-  {
-    "name": "Inha University in Tashkent (IUT)",
-    "country": "Uzbekistan",
-    "type": "public",
-    "website": "https://inha.uz",
-    "acceptance_rate": "20%",
-    "scholarship": "Full and partial scholarships",
-    "requirements": {
-      "gpa": 3.4,
-      "sat": 1100,
-      "ielts": 5.5
-    }
-  },
-  {
-    "name": "Oxford University",
-    "country": "UK",
-    "type": "public",
-    "website": "https://www.ox.ac.uk",
-    "acceptance_rate": "17%",
-    "scholarship": "Rhodes / Clarendon",
-    "requirements": {
-      "gpa": 3.8,
-      "sat": 1470,
-      "ielts": 7.5
-    }
-  },
-  {
-    "name": "National University of Singapore (NUS)",
-    "country": "Singapore",
-    "type": "public",
-    "website": "https://www.nus.edu.sg",
-    "acceptance_rate": "5%",
-    "scholarship": "ASEAN / Science & Tech",
+    "accepts_cefr": false,
+    "website": "https://web.mit.edu/",
+    "acceptance_rate": "4%",
+    "scholarship": "Need-based aid",
     "requirements": {
       "gpa": 3.9,
-      "sat": 1450,
-      "ielts": 7.0
-    }
-  },
-  {
-    "name": "Tashkent State University of Law (TSUL)",
-    "country": "Uzbekistan",
-    "type": "public",
-    "website": "https://tsul.uz",
-    "acceptance_rate": "10%",
-    "scholarship": "Government Grant",
-    "requirements": {
-      "gpa": 3.5,
-      "sat": 0,
-      "ielts": 5.5
+      "sat": 1520,
+      "ielts": 7.5,
+      "cefr": "C1"
     }
   }
 ]
