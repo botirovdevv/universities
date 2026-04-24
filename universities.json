@@ -1,34 +1,42 @@
 [
   {
-{
     "name": "New Uzbekistan University",
-    "country": "Uzbekistan",
+    "region": "local",
     "type": "public",
     "accepts_cefr": true,
     "website": "https://newuu.uz",
-    "acceptance_rate": "15%",
     "requirements": {
-      "gpa": 3.5,
-      "ielts": 6,
+      "ielts": 6.0,
       "cefr_min": 56,
       "sat_math": 700
-    }
-  },
-}
+    },
+    "acceptance_rate": "15%"
   },
   {
-    "name": "Massachusetts Institute of Technology",
-    "country": "USA",
+    "name": "Central Asian University",
+    "region": "local",
+    "type": "private",
+    "accepts_cefr": true,
+    "website": "https://centralasian.university",
+    "requirements": {
+      "ielts": 5.5,
+      "cefr_min": 50,
+      "sat_math": 0
+    },
+    "acceptance_rate": "40%"
+  },
+  {
+    "name": "Harvard University",
+    "region": "international",
     "type": "private",
     "accepts_cefr": false,
-    "website": "https://web.mit.edu/",
-    "acceptance_rate": "4%",
-    "scholarship": "Need-based aid",
+    "website": "https://harvard.edu",
     "requirements": {
       "gpa": 3.9,
-      "sat": 1520,
       "ielts": 7.5,
-      "cefr": "C1"
-    }
+      "sat_total": 1500,
+      "sat_math": 750
+    },
+    "acceptance_rate": "4%"
   }
 ]
