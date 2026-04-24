@@ -1,0 +1,60 @@
+[
+  { "name": "Massachusetts Institute of Technology", "country": "USA", "website": "https://web.mit.edu/", "acceptance_rate": "4%", "scholarship": "Need-based aid", "requirements": { "gpa": 3.9, "sat": 1520, "ielts": 7.5 } },
+  { "name": "Harvard University", "country": "USA", "website": "https://www.harvard.edu/", "acceptance_rate": "3.5%", "scholarship": "Full need-based", "requirements": { "gpa": 3.9, "sat": 1500, "ielts": 7.5 } },
+  { "name": "Stanford University", "country": "USA", "website": "https://www.stanford.edu/", "acceptance_rate": "4%", "scholarship": "Need + merit", "requirements": { "gpa": 3.9, "sat": 1480, "ielts": 7.0 } },
+  { "name": "University of Cambridge", "country": "UK", "website": "https://www.cam.ac.uk/", "acceptance_rate": "21%", "scholarship": "Limited", "requirements": { "gpa": 3.8, "sat": 1480, "ielts": 7.5 } },
+  { "name": "University of Oxford", "country": "UK", "website": "https://www.ox.ac.uk/", "acceptance_rate": "17%", "scholarship": "Competitive", "requirements": { "gpa": 3.8, "sat": 1470, "ielts": 7.5 } },
+  { "name": "ETH Zurich", "country": "Switzerland", "website": "https://ethz.ch/", "acceptance_rate": "27%", "scholarship": "Excellence", "requirements": { "gpa": 3.8, "sat": 1500, "ielts": 7.0 } },
+  { "name": "National University of Singapore", "country": "Singapore", "website": "https://nus.edu.sg/", "acceptance_rate": "25%", "scholarship": "ASEAN", "requirements": { "gpa": 3.7, "sat": 1450, "ielts": 7.0 } },
+  { "name": "UCL", "country": "UK", "website": "https://www.ucl.ac.uk/", "acceptance_rate": "63%", "scholarship": "Merit-based", "requirements": { "gpa": 3.7, "sat": 1440, "ielts": 7.0 } },
+  { "name": "University of California, Berkeley", "country": "USA", "website": "https://www.berkeley.edu/", "acceptance_rate": "14%", "scholarship": "Limited", "requirements": { "gpa": 3.8, "sat": 1450, "ielts": 7.0 } },
+  { "name": "University of Chicago", "country": "USA", "website": "https://www.uchicago.edu/", "acceptance_rate": "5%", "scholarship": "Need-based", "requirements": { "gpa": 3.9, "sat": 1500, "ielts": 7.0 } },
+
+  { "name": "Princeton University", "country": "USA", "website": "https://www.princeton.edu/", "acceptance_rate": "4%", "scholarship": "Full aid", "requirements": { "gpa": 3.9, "sat": 1500, "ielts": 7.0 } },
+  { "name": "Yale University", "country": "USA", "website": "https://www.yale.edu/", "acceptance_rate": "4.5%", "scholarship": "Need-based", "requirements": { "gpa": 3.9, "sat": 1500, "ielts": 7.0 } },
+  { "name": "Columbia University", "country": "USA", "website": "https://www.columbia.edu/", "acceptance_rate": "4%", "scholarship": "Need-based", "requirements": { "gpa": 3.9, "sat": 1500, "ielts": 7.0 } },
+  { "name": "University of Pennsylvania", "country": "USA", "website": "https://www.upenn.edu/", "acceptance_rate": "6%", "scholarship": "Need-based", "requirements": { "gpa": 3.8, "sat": 1480, "ielts": 7.0 } },
+  { "name": "Cornell University", "country": "USA", "website": "https://www.cornell.edu/", "acceptance_rate": "7%", "scholarship": "Need-based", "requirements": { "gpa": 3.8, "sat": 1470, "ielts": 7.0 } },
+
+  { "name": "Tsinghua University", "country": "China", "website": "https://www.tsinghua.edu.cn/", "acceptance_rate": "20%", "scholarship": "Chinese gov", "requirements": { "gpa": 3.8, "sat": 1450, "ielts": 6.5 } },
+  { "name": "Peking University", "country": "China", "website": "https://www.pku.edu.cn/", "acceptance_rate": "22%", "scholarship": "Gov scholarships", "requirements": { "gpa": 3.8, "sat": 1450, "ielts": 6.5 } },
+  { "name": "University of Tokyo", "country": "Japan", "website": "https://www.u-tokyo.ac.jp/", "acceptance_rate": "34%", "scholarship": "MEXT", "requirements": { "gpa": 3.7, "sat": 1400, "ielts": 6.5 } },
+  { "name": "Seoul National University", "country": "South Korea", "website": "https://www.snu.ac.kr/", "acceptance_rate": "30%", "scholarship": "Global scholarships", "requirements": { "gpa": 3.7, "sat": 1400, "ielts": 6.5 } },
+
+  { "name": "University of Toronto", "country": "Canada", "website": "https://www.utoronto.ca/", "acceptance_rate": "43%", "scholarship": "Entrance", "requirements": { "gpa": 3.6, "sat": 1380, "ielts": 6.5 } },
+  { "name": "McGill University", "country": "Canada", "website": "https://www.mcgill.ca/", "acceptance_rate": "46%", "scholarship": "Merit-based", "requirements": { "gpa": 3.6, "sat": 1380, "ielts": 6.5 } },
+
+  { "name": "University of Melbourne", "country": "Australia", "website": "https://www.unimelb.edu.au/", "acceptance_rate": "70%", "scholarship": "Merit", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+  { "name": "University of Sydney", "country": "Australia", "website": "https://www.sydney.edu.au/", "acceptance_rate": "65%", "scholarship": "Merit", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+  { "name": "Australian National University", "country": "Australia", "website": "https://www.anu.edu.au/", "acceptance_rate": "35%", "scholarship": "Merit", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+
+  { "name": "Technical University of Munich", "country": "Germany", "website": "https://www.tum.de/", "acceptance_rate": "20%", "scholarship": "DAAD", "requirements": { "gpa": 3.5, "sat": 1350, "ielts": 6.5 } },
+  { "name": "LMU Munich", "country": "Germany", "website": "https://www.lmu.de/", "acceptance_rate": "25%", "scholarship": "DAAD", "requirements": { "gpa": 3.5, "sat": 1350, "ielts": 6.5 } },
+
+  { "name": "KU Leuven", "country": "Belgium", "website": "https://www.kuleuven.be/", "acceptance_rate": "50%", "scholarship": "Limited", "requirements": { "gpa": 3.5, "sat": 1300, "ielts": 6.5 } },
+  { "name": "Sorbonne University", "country": "France", "website": "https://www.sorbonne-universite.fr/", "acceptance_rate": "55%", "scholarship": "French gov", "requirements": { "gpa": 3.5, "sat": 1300, "ielts": 6.5 } },
+
+  { "name": "University of Amsterdam", "country": "Netherlands", "website": "https://www.uva.nl/", "acceptance_rate": "60%", "scholarship": "Merit", "requirements": { "gpa": 3.5, "sat": 1300, "ielts": 6.5 } },
+  { "name": "Delft University of Technology", "country": "Netherlands", "website": "https://www.tudelft.nl/", "acceptance_rate": "50%", "scholarship": "Excellence", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+
+  { "name": "University of Copenhagen", "country": "Denmark", "website": "https://www.ku.dk/", "acceptance_rate": "45%", "scholarship": "Gov", "requirements": { "gpa": 3.5, "sat": 1300, "ielts": 6.5 } },
+  { "name": "Karolinska Institute", "country": "Sweden", "website": "https://ki.se/", "acceptance_rate": "40%", "scholarship": "Global", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+
+  { "name": "University of Hong Kong", "country": "Hong Kong", "website": "https://www.hku.hk/", "acceptance_rate": "35%", "scholarship": "Merit", "requirements": { "gpa": 3.6, "sat": 1400, "ielts": 6.5 } },
+  { "name": "Chinese University of Hong Kong", "country": "Hong Kong", "website": "https://www.cuhk.edu.hk/", "acceptance_rate": "40%", "scholarship": "Merit", "requirements": { "gpa": 3.6, "sat": 1380, "ielts": 6.5 } },
+
+  { "name": "University of Texas at Austin", "country": "USA", "website": "https://www.utexas.edu/", "acceptance_rate": "31%", "scholarship": "Limited", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+  { "name": "University of Washington", "country": "USA", "website": "https://www.washington.edu/", "acceptance_rate": "48%", "scholarship": "Limited", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+  { "name": "Georgia Institute of Technology", "country": "USA", "website": "https://www.gatech.edu/", "acceptance_rate": "21%", "scholarship": "Merit", "requirements": { "gpa": 3.7, "sat": 1400, "ielts": 6.5 } },
+  { "name": "University of California, Los Angeles", "country": "USA", "website": "https://www.ucla.edu/", "acceptance_rate": "11%", "scholarship": "Limited", "requirements": { "gpa": 3.8, "sat": 1450, "ielts": 7.0 } },
+
+  { "name": "King's College London", "country": "UK", "website": "https://www.kcl.ac.uk/", "acceptance_rate": "13%", "scholarship": "Merit", "requirements": { "gpa": 3.7, "sat": 1400, "ielts": 7.0 } },
+  { "name": "University of Manchester", "country": "UK", "website": "https://www.manchester.ac.uk/", "acceptance_rate": "56%", "scholarship": "Merit", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+  { "name": "University of Edinburgh", "country": "UK", "website": "https://www.ed.ac.uk/", "acceptance_rate": "40%", "scholarship": "Merit", "requirements": { "gpa": 3.7, "sat": 1400, "ielts": 6.5 } },
+
+  { "name": "University of Zurich", "country": "Switzerland", "website": "https://www.uzh.ch/", "acceptance_rate": "30%", "scholarship": "Limited", "requirements": { "gpa": 3.6, "sat": 1350, "ielts": 6.5 } },
+  { "name": "University of Helsinki", "country": "Finland", "website": "https://www.helsinki.fi/", "acceptance_rate": "35%", "scholarship": "Finland scholarships", "requirements": { "gpa": 3.5, "sat": 1300, "ielts": 6.5 } },
+
+  { "name": "University of Barcelona", "country": "Spain", "website": "https://www.ub.edu/", "acceptance_rate": "60%", "scholarship": "Gov", "requirements": { "gpa": 3.5, "sat": 1250, "ielts": 6.0 } },
+  { "name": "Sapienza University of Rome", "country": "Italy", "website": "https://www.uniroma1.it/", "acceptance_rate": "55%", "scholarship": "Italian gov", "requirements": { "gpa": 3.5, "sat": 1250, "ielts": 6.0 } }
+]
