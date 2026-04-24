@@ -1,18 +1,20 @@
 [
   {
-    "name": "New Uzbekistan University",
-    "country": "Uzbekistan",
-    "type": "public",
-    "accepts_cefr": true,
-    "website": "https://newuu.uz",
-    "acceptance_rate": "15%",
-    "scholarship": "State-funded / Presidential",
-    "requirements": {
-      "gpa": 3.5,
-      "sat": 1200,
-      "ielts": 6.5,
-      "cefr": "B2"
-    }
+  "name": "New Uzbekistan University",
+  "country": "Uzbekistan",
+  "type": "public",
+  "accepts_cefr": true,
+  "website": "https://newuu.uz",
+  "acceptance_rate": "15%",
+  "scholarship": "State-funded",
+  "requirements": {
+    "gpa": 3.5,
+    "ielts": 6.5,
+    "cefr": "B2",
+    "sat": 0,
+    "sat_math": 780 
+  }
+}
   },
   {
     "name": "Massachusetts Institute of Technology",
