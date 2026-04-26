@@ -1,42 +1,111 @@
+cat > /mnt/user-data/outputs/universities_raw.json << 'EOF'
 [
   {
+    "id": 1,
     "name": "New Uzbekistan University",
+    "country": "Uzbekistan",
     "region": "local",
     "type": "public",
+    "website": "https://new.uz",
     "accepts_cefr": true,
-    "website": "https://newuu.uz",
     "requirements": {
+      "gpa": null,
       "ielts": 6.0,
       "cefr_min": 56,
+      "sat_total": null,
       "sat_math": 780
     },
-    "acceptance_rate": "15%"
+    "acceptance_rate": "45%"
   },
   {
-    "name": "Central Asian University",
+    "id": 2,
+    "name": "Westminster International University",
+    "country": "Uzbekistan",
     "region": "local",
     "type": "private",
+    "website": "https://westminster.uz",
     "accepts_cefr": true,
-    "website": "https://centralasian.university",
     "requirements": {
+      "gpa": null,
       "ielts": 5.5,
       "cefr_min": 50,
-      "sat_math": 0
+      "sat_total": 1200,
+      "sat_math": 600
     },
-    "acceptance_rate": "40%"
+    "acceptance_rate": "65%"
   },
   {
+    "id": 3,
     "name": "Harvard University",
+    "country": "United States",
     "region": "international",
     "type": "private",
-    "accepts_cefr": false,
     "website": "https://harvard.edu",
+    "accepts_cefr": false,
     "requirements": {
       "gpa": 3.9,
       "ielts": 7.5,
+      "cefr_min": null,
       "sat_total": 1500,
-      "sat_math": 750
+      "sat_math": 780
     },
-    "acceptance_rate": "4%"
+    "acceptance_rate": "3%"
+  }
+]
+EOF
+cat /mnt/user-data/outputs/universities_raw.json
+Output
+
+[
+  {
+    "id": 1,
+    "name": "New Uzbekistan University",
+    "country": "Uzbekistan",
+    "region": "local",
+    "type": "public",
+    "website": "https://new.uz",
+    "accepts_cefr": true,
+    "requirements": {
+      "gpa": null,
+      "ielts": 6.0,
+      "cefr_min": 56,
+      "sat_total": null,
+      "sat_math": 780
+    },
+    "acceptance_rate": "45%"
+  },
+  {
+    "id": 2,
+    "name": "Westminster International University",
+    "country": "Uzbekistan",
+    "region": "local",
+    "type": "private",
+    "website": "https://westminster.uz",
+    "accepts_cefr": true,
+    "requirements": {
+      "gpa": null,
+      "ielts": 5.5,
+      "cefr_min": 50,
+      "sat_total": 1200,
+      "sat_math": 600
+    },
+    "acceptance_rate": "65%"
+  },
+  {
+    "id": 3,
+    "name": "Harvard University",
+    "country": "United States",
+    "region": "international",
+    "type": "private",
+    "website": "https://harvard.edu",
+    "accepts_cefr": false,
+    "requirements": {
+      "gpa": 3.9,
+      "ielts": 7.5,
+      "cefr_min": null,
+      "sat_total": 1500,
+      "sat_math": 780
+    },
+    "acceptance_rate": "3%"
   }
 ]
