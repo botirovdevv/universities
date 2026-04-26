@@ -1,3 +1,4 @@
+[
   {
     "id": 1,
     "name": "New Uzbekistan University",
@@ -7,11 +8,11 @@
     "website": "https://new.uz",
     "accepts_cefr": true,
     "requirements": {
-      "gpa": null,
+      "gpa": 0,
       "ielts": 6.0,
       "cefr_min": 56,
-      "sat_total": null,
-      "sat_math": 780
+      "sat_total": 0,
+      "sat_math": 700 
     },
     "acceptance_rate": "45%"
   },
@@ -24,7 +25,7 @@
     "website": "https://westminster.uz",
     "accepts_cefr": true,
     "requirements": {
-      "gpa": null,
+      "gpa": 0,
       "ielts": 5.5,
       "cefr_min": 50,
       "sat_total": 1200,
@@ -43,9 +44,10 @@
     "requirements": {
       "gpa": 3.9,
       "ielts": 7.5,
-      "cefr_min": null,
+      "cefr_min": 0,
       "sat_total": 1500,
       "sat_math": 780
     },
     "acceptance_rate": "3%"
   }
+]
