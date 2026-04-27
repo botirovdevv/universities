@@ -6,6 +6,7 @@
     "region": "local",
     "type": "public",
     "website": "https://new.uz",
+    "logo_url": "https://newuzbekistanuniversity.uz/wp-content/uploads/2021/09/Logo-New-Uzbekistan-University.png",
     "accepts_cefr": true,
     "requirements": {
       "gpa": 0,
@@ -23,6 +24,7 @@
     "region": "local",
     "type": "private",
     "website": "https://westminster.uz",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Westminster_International_University_in_Tashkent_logo.png/220px-Westminster_International_University_in_Tashkent_logo.png",
     "accepts_cefr": true,
     "requirements": {
       "gpa": 0,
@@ -40,6 +42,7 @@
     "region": "international",
     "type": "private",
     "website": "https://harvard.edu",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield.svg/1200px-Harvard_shield.svg.png",
     "accepts_cefr": false,
     "requirements": {
       "gpa": 3.9,
