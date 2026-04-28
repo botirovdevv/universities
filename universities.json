@@ -25,13 +25,13 @@
     "type": "private",
     "website": "https://westminster.uz",
     "logo_url": "https://i.ibb.co/jP0ydT7D/wiutlogo.png",
-    "accepts_cefr": true,
+    "accepts_cefr": false,
     "requirements": {
       "gpa": 0,
       "ielts": 5.5,
       "cefr_min": 50,
       "sat_total": 1200,
-      "sat_math": 600
+      "sat_math": 570
     },
     "acceptance_rate": "65%"
   },
